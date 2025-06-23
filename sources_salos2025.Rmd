@@ -1,0 +1,15 @@
+---
+title: "sources for Using Distributional Phylogenetic Modeling to Analyze Language Contact in Eastern Turkey"
+author: "Nora Muheim"
+date: "2025-06-23"
+output: html_document
+---
+
+* Ahola, N., T. Ellison, M., Kapellis, P., & Sinnemäki, K. (2023, 12–15 September 2023). Evaluating the probability of diffusion: A case study of Dimli language contact with Turkish [Conference presentation]. The Connected Past: Digital Methods for the Study of Networks and Complexity in the Humanities, Helsinki.
+* Beaulieu, J. M., Jhwueng, D. C., Boettiger, C., & O’Meara, B. C. (2012). Modeling stabilizing selection: expanding the Ornstein–Uhlenbeck model of adaptive evolution. Evolution, 66(8), 2369-2383.
+* Cathcart, C. (2023). Rate variation in language change: toward distributional phylogenetic modeling. In F. A. Karakostis, & G. Jäger (Eds.), Biocultural Evolution: An Agenda for Integrative Approaches (pp. 179–202). Kerns Verlag, Tübingen.
+* Di Garbo, F., & Napoleão de Souza, R. (2023). A sampling technique for worldwide comparisons of language contact scenarios. Linguistic Typology, 27(3), 553-589.
+* Revell, L. J. (2024) phytools 2.0: an updated R ecosystem for phylogenetic comparative methods (and otherthings). PeerJ, 12, e16505.
+* Sinnemäki, K., & Ahola, N. (2023). Testing inferences about language contact on morphosyntax: A typological case study on Alorese–Adang contact. Transactions of the Philological Society, 121(3), 513-545.
+* Todd, T. L. (2008). A Grammar of Dimili also known as Zaza. 3rd edn. Stockholm: Iremet.
+* Yakubovich, I. S. (2020). Persian ezāfe as a contact-induced feature. Вопросы языкознания, (5), 91-114.
